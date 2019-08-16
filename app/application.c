@@ -67,8 +67,9 @@ void lis2dh12_event_handler(bc_lis2dh12_t *self, bc_lis2dh12_event_t event, void
                 endSeconds = bc_tick_get();
                 spinningTime = ((endSeconds - startSeconds) / (float)1000);
                 bc_log_info("biggest magnitude was %f", recordMagnitude);
+                bc_log_info("spinning time was %f", spinningTime);
                 bc_radio_pub_float("rotation-g", &recordMagnitude);
-                bc_radio_pub_int("rotation-time", &spinningTime);
+                bc_radio_pub_float("rotation-time", &spinningTime);
                 recordMagnitude = 0;
             }
         }

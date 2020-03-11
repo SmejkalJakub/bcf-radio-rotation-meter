@@ -1,4 +1,6 @@
  <a href="https://www.hardwario.com/"><img src="https://www.hardwario.com/ci/assets/hw-logo.svg" width="200" alt="HARDWARIO Logo" align="right"></a>
+ 
+# Game that measures who can spin the most
 
 [![Travis](https://img.shields.io/travis/bigclownprojects/bcf-radio-spinning-game/master.svg)](https://travis-ci.org/bigclownprojects/bcf-radio-spinning-game)
 [![Release](https://img.shields.io/github/release/bigclownprojects/bcf-radio-spinning-game.svg)](https://github.com/bigclownprojects/bcf-radio-spinning-game/releases)

@@ -2,7 +2,7 @@
  
 # Game that measures who can spin the most
 
-[![Travis](https://img.shields.io/travis/bigclownprojects/bcf-radio-spinning-game/master.svg)](https://travis-ci.org/bigclownprojects/bcf-radio-spinning-game)
+[![build](https://github.com/hardwario/bcf-radio-spinning-game/actions/workflows/main.yml/badge.svg)](https://github.com/hardwario/bcf-radio-spinning-game/actions/workflows/main.yml)
 [![Release](https://img.shields.io/github/release/bigclownprojects/bcf-radio-spinning-game.svg)](https://github.com/bigclownprojects/bcf-radio-spinning-game/releases)
 [![License](https://img.shields.io/github/license/bigclownprojects/bcf-radio-spinning-game.svg)](https://github.com/bigclownprojects/bcf-radio-spinning-game/blob/master/LICENSE)
 [![Twitter](https://img.shields.io/twitter/follow/hardwario_en.svg?style=social&label=Follow)](https://twitter.com/hardwario_en)
